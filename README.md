@@ -1,6 +1,3 @@
- <!-- Profile Banner -->
-![Banner](https://i.ibb.co/kGqqM0K/github-banner.png)
-
 # 👋 Hi, I'm Anmol Sharma  
 
 💻 Developer | 🤖 AI & ML Explorer | 📚 Research Enthusiast  
