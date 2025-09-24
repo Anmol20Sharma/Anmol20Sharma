@@ -27,9 +27,7 @@
 ---
 
 ## 📊 GitHub Stats  
- ## 📊 GitHub Stats & Streaks  
-
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol20Sharma&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
