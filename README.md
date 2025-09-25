@@ -41,7 +41,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical" alt="Activity Graph" />
 </p>
 
 
