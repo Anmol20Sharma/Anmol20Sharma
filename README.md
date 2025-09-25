@@ -25,6 +25,10 @@
 </p>
  
 
+## GitHub Streak & Activity Graph
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical)  
+
 
 ---
 
