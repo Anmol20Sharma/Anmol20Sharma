@@ -18,11 +18,22 @@
 
 ---
 
-## 📊 GitHub Stats  
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol20Sharma&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+ ## 📈 GitHub Contributions & Stats  
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical&hide_border=true&border_radius=10" 
+         alt="GitHub Streak" height="180"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Anmol20Sharma">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical&bg_color=0D1117&color=E935C1&line=F85D7F&point=FFFFFF&hide_border=true" 
+         alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
  
 
  ## 🔥 GitHub Streak & Activity Graph  
