@@ -28,6 +28,7 @@
 ## GitHub Streak & Activity Graph
  <p align="center"></p>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical)  
+</p>
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical)  
 
 
