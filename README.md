@@ -21,12 +21,6 @@
  ## 📈 GitHub Contributions & Stats  
 
 <p align="center">
-  <!-- Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical&hide_border=true&border_radius=10" 
-         alt="GitHub Streak" height="180"/>
-  </a>
-
   <!-- GitHub Stats Card -->
   <a href="https://github.com/Anmol20Sharma">
     <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10" 
@@ -41,6 +35,7 @@
          alt="GitHub Activity Graph"/>
   </a>
 </p>
+
 
 
  
