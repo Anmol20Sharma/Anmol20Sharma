@@ -57,10 +57,10 @@
  
 
  ## 🔥 GitHub Streak & Activity Graph  
-
  <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical&count_private=true&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
+
 
 
 
