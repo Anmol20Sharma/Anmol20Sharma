@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://www.canva.com/design/DAGiqgCw_zg/view?embed" alt="Profile Banner" />
+ <p align="center">
+  <img src="https://github.com/Anmol20Sharma/Anmol20Sharma/blob/main/a.png" alt="Profile Banner" />
 </p>
+
 
 # 👋 Hi, I'm Anmol Sharma  
 
