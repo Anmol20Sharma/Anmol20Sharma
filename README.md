@@ -24,25 +24,17 @@
 ---
  ## 🔥 GitHub Streak & Activity Graph    
 
-<p align="center">
-  <!-- GitHub Streak -->
+ <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Anmol20Sharma&theme=radical&hide_border=true&border_radius=10" 
+    <img src="https://streak-stats.demolab.com?user=Anmol20Sharma&theme=radical&hide_border=true&border_radius=10&t=12345" 
          alt="GitHub Streak" height="180"/>
   </a>
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Anmol20Sharma">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10" 
-         alt="GitHub Stats" height="180"/>
-  </a>
 </p>
+<a href="https://github.com/Anmol20Sharma">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10&t=98765" 
+       alt="GitHub Stats" height="180"/>
+</a>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical&hide_border=true&border_radius=10" 
-       alt="GitHub Activity Graph" />
-</p>
 
 
 
