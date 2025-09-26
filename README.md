@@ -34,7 +34,13 @@
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical&bg_color=0D1117&color=E935C1&line=F85D7F&point=FFFFFF&hide_border=true" 
        alt="GitHub Activity Graph"/>
+  
 </p>
+<!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10" 
+       alt="GitHub Stats" height="180"/>
+</p>
+
 
 
 
