@@ -33,12 +33,20 @@
 </p>
 
   
+   <p align="center">
   <!-- GitHub Stats -->
   <a href="https://github.com/Anmol20Sharma">
     <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10" 
          alt="GitHub Stats" height="180"/>
   </a>
+  
+  <!-- Most Used Languages -->
+  <a href="https://github.com/Anmol20Sharma">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol20Sharma&layout=compact&theme=radical&hide_border=true&border_radius=10" 
+         alt="Most Used Languages" height="180"/>
+  </a>
 </p>
+
 
 <p align="center">
   <!-- Activity Graph -->
