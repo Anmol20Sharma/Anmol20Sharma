@@ -23,23 +23,40 @@
 
 ---
 
- ## 📈 GitHub Contributions & Stats  
+ ## 📊 GitHub Stats & Activity
 
 <p align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/Anmol20Sharma">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10" 
+    <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" 
          alt="GitHub Stats" height="180"/>
   </a>
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
+  <!-- Top Languages -->
   <a href="https://github.com/Anmol20Sharma">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical&bg_color=0D1117&color=E935C1&line=F85D7F&point=FFFFFF&hide_border=true" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol20Sharma&layout=compact&theme=tokyonight&hide_border=false" 
+         alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <a href="https://github.com/Anmol20Sharma">
+    <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=tokyonight&hide_border=false" 
+         alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <a href="https://github.com/Anmol20Sharma">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=tokyonight&bg_color=0D1117&color=38b6ff&line=ffffff&point=ff49a4&hide_border=false" 
          alt="GitHub Activity Graph"/>
   </a>
 </p>
+
 
 
 
