@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.canva.com/design/DAGiqgCw_zg/view?embed" alt="Profile Banner" />
+</p>
+
 # 👋 Hi, I'm Anmol Sharma  
 
 💻 Developer | 🤖 AI & ML Explorer | 📚 Research Enthusiast  
