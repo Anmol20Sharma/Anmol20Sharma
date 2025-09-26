@@ -24,12 +24,14 @@
 ---
  ## 📈 GitHub Stats & Activity  
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical&hide_border=true&border_radius=10" 
-         alt="GitHub Streak" height="180"/>
+ <p align="center">
+  <!-- GitHub Streak (Your ID) -->
+  <a href="https://streak-stats.demolab.com?user=Anmol20Sharma">
+    <img src="https://streak-stats.demolab.com?user=Anmol20Sharma&theme=dark&hide_border=true&border_radius=10&t=12345" 
+         alt="GitHub Streak for Anmol20Sharma" height="180"/>
   </a>
+</p>
+
   
   <!-- GitHub Stats -->
   <a href="https://github.com/Anmol20Sharma">
