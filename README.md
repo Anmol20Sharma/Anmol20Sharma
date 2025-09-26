@@ -41,13 +41,7 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <a href="https://github.com/Anmol20Sharma">
-    <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=tokyonight&hide_border=false" 
-         alt="GitHub Streak"/>
-  </a>
-</p>
+ 
 
 <p align="center">
   <!-- Contribution Graph -->
