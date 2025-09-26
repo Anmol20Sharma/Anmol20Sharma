@@ -58,10 +58,10 @@
 
  ## 🔥 GitHub Streak & Activity Graph  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical" alt="GitHub Streak" />
-  <br/>
+ <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical&count_private=true&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 
 
