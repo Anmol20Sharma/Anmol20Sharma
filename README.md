@@ -36,12 +36,13 @@
 </a>
 
 
-## 📈 Contribution Graph  
+## 📈 Contribution Graph   
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical&hide_border=true&border_radius=10&t=12345" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=github-compact&bg_color=000000&color=ffffff&line=00ff00&point=ff0000&hide_border=true&border_radius=10&t=12345" 
        alt="GitHub Activity Graph" />
 </p>
+
 
 
 
