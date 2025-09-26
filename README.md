@@ -24,22 +24,28 @@
 ---
  ## 🔥 GitHub Streak & Activity Graph  
 
-<p align="center">
+ <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical&hide_border=true&border_radius=10" 
-       alt="GitHub Streak" height="180"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical&hide_border=true&border_radius=10" 
+         alt="GitHub Streak" height="180"/>
+  </a>
+  
+  <!-- GitHub Stats -->
+  <a href="https://github.com/Anmol20Sharma">
+    <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10" 
+         alt="GitHub Stats" height="180"/>
+  </a>
 </p>
 
 <p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical&bg_color=0D1117&color=E935C1&line=F85D7F&point=FFFFFF&hide_border=true" 
-       alt="GitHub Activity Graph"/>
-  
+  <a href="https://github.com/Anmol20Sharma">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical&bg_color=0D1117&color=E935C1&line=F85D7F&point=FFFFFF&hide_border=true" 
+         alt="GitHub Activity Graph"/>
+  </a>
 </p>
-<!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10" 
-       alt="GitHub Stats" height="180"/>
-</p>
+
 
 
 
