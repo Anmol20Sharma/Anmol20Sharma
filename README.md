@@ -25,28 +25,17 @@
 
  ## 📊 GitHub Stats & Activity
 
-<p align="center"> 
-  <a href="https://github.com/Anmol20Sharma">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" 
-         alt="GitHub Stats" height="180"/>
-  </a>
+ ## 🔥 GitHub Streak & Activity Graph  
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical&hide_border=true&cachebust=1" alt="GitHub Streak" />
+
+  <!-- GitHub Activity Graph -->
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Anmol20Sharma&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/Anmol20Sharma">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol20Sharma&layout=compact&theme=tokyonight&hide_border=false" 
-         alt="Top Languages"/>
-  </a>
-</p>
-
- 
-
-<p align="center"> 
-  <a href="https://github.com/Anmol20Sharma">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=tokyonight&bg_color=0D1117&color=38b6ff&line=ffffff&point=ff49a4&hide_border=false" 
-         alt="GitHub Activity Graph"/>
-  </a>
-</p>
 
 
 
