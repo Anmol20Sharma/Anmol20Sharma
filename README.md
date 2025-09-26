@@ -1,5 +1,5 @@
- <p align="center">
-  <img src="https://github.com/Anmol20Sharma/Anmol20Sharma/blob/main/Banner.png" alt="Profile Banner" />
+<p align="center">
+  <img src="https://github.com/Anmol20Sharma/Anmol20Sharma/blob/main/assets/Banner.png" alt="Profile Banner" />
 </p>
 
 
