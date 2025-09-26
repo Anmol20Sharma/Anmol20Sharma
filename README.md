@@ -27,16 +27,17 @@
  <p align="center">
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical&hide_border=true&border_radius=10" 
+    <img src="https://streak-stats.demolab.com/?user=Anmol20Sharma&theme=radical&hide_border=true&border_radius=10&cache_seconds=86400" 
          alt="GitHub Streak" height="180"/>
   </a>
   
   <!-- GitHub Stats -->
   <a href="https://github.com/Anmol20Sharma">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10" 
+    <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10&cache_seconds=86400" 
          alt="GitHub Stats" height="180"/>
   </a>
 </p>
+
 
 <p align="center">
   <!-- Activity Graph -->
