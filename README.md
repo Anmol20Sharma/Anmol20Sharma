@@ -24,13 +24,16 @@
 ---
  ## 📈 GitHub Stats & Activity  
 
- <p align="center">
-  <!-- GitHub Streak (Your ID) -->
-  <a href="https://streak-stats.demolab.com?user=Anmol20Sharma">
-    <img src="https://streak-stats.demolab.com?user=Anmol20Sharma&theme=dark&hide_border=true&border_radius=10&t=12345" 
-         alt="GitHub Streak for Anmol20Sharma" height="180"/>
+  <p align="center"> 
+  <a href="https://streak-stats.demolab.com?user=Anmol20Sharma" target="_blank">
+    <img 
+      src="https://streak-stats.demolab.com?user=Anmol20Sharma&theme=dark&hide_border=true&border_radius=10" 
+      alt="GitHub Streak for Anmol20Sharma" 
+      height="180"
+    />
   </a>
 </p>
+
 
   
    <p align="center">
