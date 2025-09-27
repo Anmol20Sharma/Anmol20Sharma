@@ -51,13 +51,16 @@
 </p>
 
 
-<p align="center">
-  <!-- Activity Graph -->
+ <p align="center">
+  <!-- GitHub Activity Graph -->
   <a href="https://github.com/Anmol20Sharma">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical&bg_color=0D1117&color=E935C1&line=F85D7F&point=FFFFFF&hide_border=true" 
-         alt="GitHub Activity Graph"/>
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol20Sharma&theme=radical&bg_color=0D1117&color=E935C1&line=F85D7F&point=FFFFFF&hide_border=true&rand=<?=time()?>"
+      alt="GitHub Activity Graph"
+    />
   </a>
 </p>
+
 
 
 
