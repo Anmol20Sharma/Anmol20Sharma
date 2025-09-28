@@ -24,7 +24,7 @@
 ---
  ## 📈 GitHub Stats & Activity  
 
-  <p align="center"> 
+ <p align="center"> 
   <a href="https://streak-stats.demolab.com?user=Anmol20Sharma" target="_blank">
     <img 
       src="https://streak-stats.demolab.com?user=Anmol20Sharma&theme=dark&hide_border=true&border_radius=10" 
@@ -33,6 +33,7 @@
     />
   </a>
 </p>
+
 
 
   
