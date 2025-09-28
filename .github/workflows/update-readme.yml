@@ -1,0 +1,26 @@
+name: ♻️ Auto Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs daily at midnight UTC
+  workflow_dispatch: # allow manual trigger too
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Force refresh README
+        run: |
+          # Make a dummy change to force refresh
+          date +"Last refresh: %Y-%m-%d %H:%M:%S UTC" > last_update.txt
+          git add last_update.txt
+          git commit -m "chore: refresh README [skip ci]" || echo "No changes to commit"
+          git push
