@@ -62,9 +62,7 @@
     />
   </a>
 </p>
-
-## 👀 Visitors Count  
-![Visitor Count](https://profile-counter.glitch.me/Anmol20Sharma/count.svg)
+ 
 
 
 
