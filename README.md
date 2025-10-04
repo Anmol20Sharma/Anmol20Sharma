@@ -64,24 +64,6 @@
 </p>
 
 
-
-
- 
- ## 📊 GitHub Profile Summary
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol20Sharma&theme=tokyonight" 
-    alt="Anmol Sharma GitHub Profile Summary" 
-    width="700" 
-  />
-</p>
-
-
-
-
-
-
-
  
 ---
 
