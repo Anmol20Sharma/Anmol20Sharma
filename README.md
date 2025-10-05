@@ -36,8 +36,6 @@
 </p>
 
 
-
-  
    <p align="center">
   <!-- GitHub Stats -->
   <a href="https://github.com/Anmol20Sharma">
