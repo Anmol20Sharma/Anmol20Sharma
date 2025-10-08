@@ -24,19 +24,18 @@
 
 ---
  ## 📈 GitHub Stats & Activity  
-
- <p align="center">
-  <img
-    src="https://anmol-github-streak.vercel.app/api/streak?user=Anmol20Sharma&theme=midnight-glow"
-    alt="Anmol Sharma's GitHub Streak"
-    height="180"
-    style="border-radius:12px; box-shadow:0 0 15px rgba(0, 255, 255, 0.3);"
-  />
+ 
+<p align="center">
+  <!-- GitHub Streak Card -->
+  <a href="https://github.com/Anmol20Sharma">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=Anmol20Sharma&theme=tokyonight&hide_border=true&border_radius=12"
+      alt="GitHub Streak for Anmol20Sharma"
+      height="180"
+      style="box-shadow:0 0 15px rgba(0,255,255,0.25);"
+    />
+  </a>
 </p>
-
-
-
-
 
    <p align="center">
   <!-- GitHub Stats -->
