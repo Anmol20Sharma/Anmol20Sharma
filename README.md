@@ -26,13 +26,12 @@
  ## 📈 GitHub Stats & Activity  
 
  <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=Anmol20Sharma&theme=dark&hide_border=true&border_radius=10"
-      alt="GitHub Streak for Anmol20Sharma"
-      height="180"
-    />
-  </a>
+  <img
+    src="https://anmol-github-streak.vercel.app/api/streak?user=Anmol20Sharma&theme=midnight-glow"
+    alt="Anmol Sharma's GitHub Streak"
+    height="180"
+    style="border-radius:12px; box-shadow:0 0 15px rgba(0, 255, 255, 0.3);"
+  />
 </p>
 
 
