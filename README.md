@@ -25,17 +25,16 @@
 ---
  ## 📈 GitHub Stats & Activity  
  
-<p align="center">
-  <!-- GitHub Streak Card -->
+ <p align="center">
   <a href="https://github.com/Anmol20Sharma">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Anmol20Sharma&theme=tokyonight&hide_border=true&border_radius=12"
+      src="https://streak-stats.demolab.com?user=Anmol20Sharma&theme=tokyonight&hide_border=true&border_radius=12"
       alt="GitHub Streak for Anmol20Sharma"
       height="180"
-      style="box-shadow:0 0 15px rgba(0,255,255,0.25);"
     />
   </a>
 </p>
+
 
    <p align="center">
   <!-- GitHub Stats -->
