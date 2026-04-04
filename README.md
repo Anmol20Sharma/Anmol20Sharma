@@ -23,33 +23,21 @@
 
 
 ---
- ## 📈 GitHub Stats & Activity  
- 
- <p align="center">
-  <a href="https://github.com/Anmol20Sharma">
-    <img
-      src="https://streak-stats.demolab.com?user=Anmol20Sharma&theme=tokyonight&hide_border=true&border_radius=12"
-      alt="GitHub Streak for Anmol20Sharma"
-      height="180"
-    />
-  </a>
+ ## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Anmol20Sharma&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="GitHub Streak"
+    height="180"
+  />
 </p>
 
-
-   <p align="center">
-  <a href="https://github.com/Anmol20Sharma">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10" 
-         alt="GitHub Stats" height="180"/>
-  </a>
-
-
-
-  <p align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anmol20Sharma&theme=tokyonight" height="180"/>
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anmol20Sharma&theme=tokyonight" height="180"/>
 </p>
-
 
  <p align="center">
   <!-- GitHub Activity Graph -->
