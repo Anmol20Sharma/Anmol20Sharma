@@ -50,6 +50,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anmol20Sharma&style=for-the-badge&color=blueviolet"/>
+</p>
 
  
 
