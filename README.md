@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Anmol Sharma  
 
-💻 Developer | 🤖 AI & ML Explorer | 📚 Research Enthusiast  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E935C1&width=435&lines=AI+%26+ML+Explorer+%F0%9F%A4%96;Research+Enthusiast+%F0%9F%94%AC;Problem+Solver+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 ---
 
@@ -63,7 +63,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E935C1&width=435&lines=AI+%26+ML+Explorer+%F0%9F%A4%96;Research+Enthusiast+%F0%9F%94%AC;Problem+Solver+%F0%9F%92%A1)](https://git.io/typing-svg)
+ 
 
  
 ---
