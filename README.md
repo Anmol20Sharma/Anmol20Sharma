@@ -42,15 +42,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10" 
          alt="GitHub Stats" height="180"/>
   </a>
-  
-  
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol20Sharma&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800" 
-       alt="Most Used Languages" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800" 
-       alt="GitHub Stats" height="180"/>
+
+
+
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anmol20Sharma&theme=tokyonight" height="180"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anmol20Sharma&theme=tokyonight" height="180"/>
 </p>
+
 
  <p align="center">
   <!-- GitHub Activity Graph -->
