@@ -37,7 +37,6 @@
 
 
    <p align="center">
-  <!-- GitHub Stats -->
   <a href="https://github.com/Anmol20Sharma">
     <img src="https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&show_icons=true&theme=radical&hide_border=true&border_radius=10" 
          alt="GitHub Stats" height="180"/>
