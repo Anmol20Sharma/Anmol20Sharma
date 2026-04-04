@@ -47,6 +47,7 @@
   <a href="https://github.com/Anmol20Sharma">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol20Sharma&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=1800" 
          alt="Most Used Languages" height="180"/>
+    https://github-readme-stats.vercel.app/api?username=Anmol20Sharma&cache_seconds=1800
   </a>
 </p>
 
