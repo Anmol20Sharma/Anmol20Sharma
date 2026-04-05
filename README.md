@@ -4,7 +4,7 @@
 
  # 👋 Hi, I'm Anmol Sharma
 
-[![Typing SVG](...your typing svg link...)](https://github.com/Anmol20Sharma)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=false&vCenter=true&width=500&lines=AI+%26+ML+Explorer+🤖;Research+Enthusiast+📚;Problem+Solver+💡;Learning+by+Building+🚀;B.Tech+AI+%26+ML+@+PSIT+Kanpur)](https://github.com/Anmol20Sharma)
 
 <br/>
 
