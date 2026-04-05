@@ -5,9 +5,7 @@
  # 👋 Hi, I'm Anmol Sharma
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=false&vCenter=true&width=500&lines=AI+%26+ML+Explorer+🤖;Research+Enthusiast+📚;Problem+Solver+💡;Learning+by+Building+🚀;B.Tech+AI+%26+ML+@+PSIT+Kanpur)](https://github.com/Anmol20Sharma)
-
 <br/>
-
 ![Open to Work](https://img.shields.io/badge/Open_to-Internships-success?style=for-the-badge)
 ![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-58a6ff?style=for-the-badge)
 ![PSIT Kanpur](https://img.shields.io/badge/PSIT-Kanpur-0A66C2?style=for-the-badge)
